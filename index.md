@@ -15,9 +15,10 @@ page_url: /Gary Han # only include this variable if you aren't building the page
 favicon: /assets/ico/favicon.ico
 
 # social media
-twitter_username: notsaragong # # your twitter handle
+twitter_username: GaryH78316 # # your twitter handle
 github_username:  hangary
 linkedin: saragong # the part after ("https://www.linkedin.com/in/...")
+instagram: _garyhan
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
 

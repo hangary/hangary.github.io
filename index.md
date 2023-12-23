@@ -4,8 +4,8 @@ layout: hello-default
 # using Markdown language, you can customize the following variables!
 
 # these variables are required -------------------------------
-banner_title: hello for github pages
-banner_subtitle: a minimalist template for personal websites
+banner_title: Inspiring Others and Empowering All
+banner_subtitle: "Work Hard, Have Fun, Make History" - Jeff Bezos
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
@@ -16,7 +16,7 @@ favicon: /assets/ico/favicon.ico
 
 # social media
 twitter_username: notsaragong # # your twitter handle
-github_username:  saragong # your github username
+github_username:  hangary
 linkedin: saragong # the part after ("https://www.linkedin.com/in/...")
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
@@ -42,16 +42,11 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### why **hello**?  
+### Hi! I'm Gary! Let me show you around.   
 
-### **hello** has a simple goal: to make GitHub Pages accessible to everyone.  
+### I use this webiste to share my stories and projects. This is the about section. Below this section is the blog section, project section, and contacts/other section. 
+
+### The blog sections is where I share my stories and opinions. The project sections contains some of my recent engineering projects along with a few updates (about 3 per month) on my progress. My contacts/other section contains links to other platforms (Linkedin, Instagram, Youtube, etc.)
+
+
   
-**hello** is a minimalist template that lets you design a beautiful website or portfolio on GitHub Pages - without installing a Ruby
-development environment, learning to use Jekyll, **or even typing a single line of code**. It's ideal for GitHubbers
-who want to start building their personal website on [GitHub Pages](https://pages.github.com/), but maybe aren't so familiar with web development.
-  
-
-The default layout of **hello** is a streamlined single page with three major customizable sections: a required "about" section, an optional portfolio, and an optional CTA. Using [Liquid](https://shopify.github.io/liquid/) variables declared by in the config and index files, **hello** offers an easy-to-use design where all customizations necessary for a basic personal website can be written in [Markdown](https://www.markdownguide.org/basic-syntax/).  
-
-
-**hello** is adapted from [Twenty](https://html5up.net/twenty), a responsive, mobile-friendly theme by HTML5 Up.

@@ -4,7 +4,7 @@ layout: hello-default
 # using Markdown language, you can customize the following variables!
 
 # these variables are required -------------------------------
-banner_title: hello for github pages
+banner_title: Accelerating the Future
 banner_subtitle: 
 background_image: /images/background.jpeg
 

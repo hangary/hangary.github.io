@@ -44,7 +44,7 @@ cta_button_label: contact # the label on the button
 [//]: # (write a bit about yourself here)
 ### Hi! I'm Gary! Let me show you around.   
 
-### I use this webiste to share my stories and projects. This is the about section. Below this section is the blog section, project section, and contacts/other section. 
+### I use this website to share my stories and projects. This is the about section. Below this section is the blog section, project section, and contacts/other section. 
 
 ### The blog sections is where I share my stories and opinions. The project sections contains some of my recent engineering projects along with a few updates (about 3 per month) on my progress. My contacts/other section contains links to other platforms (Linkedin, Instagram, Youtube, etc.)
 

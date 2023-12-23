@@ -23,8 +23,8 @@ instagram: _garyhan
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: https://github.com/saragong/hello # the link
-about_button_label: get hello # the label on the button
+about_button: https://drive.google.com/drive/folders/1CIWJJJnePm05ns-zrTegWfkHSFYmEnPY?usp=drive_link
+about_button_label: Blogs Listed Here
 
 # optional portfolio section ------------------------------------------
 

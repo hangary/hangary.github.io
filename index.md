@@ -4,7 +4,7 @@ layout: hello-default
 # using Markdown language, you can customize the following variables!
 
 # these variables are required -------------------------------
-banner_title: Inspiring Others and Empowering All
+banner_title: Inspiring Others
 banner_subtitle: "Work Hard, Have Fun, Make History" - Jeff Bezos
 background_image: /images/background.jpeg
 

@@ -1,10 +1,10 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello for Github Pages
-author: Sara Gong
+title: Gary Han Project Website
+author: Gary Han
 description: > 
-  A minimalist template for designing a personal GitHub Pages website - without typing a single line of code.
+  Hi! I'm Gary ~ This is where I post project updates and blogs! 
 baseurl: ""
 
 plugins:

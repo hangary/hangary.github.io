@@ -6,7 +6,7 @@ layout: hello-default
 # these variables are required -------------------------------
 banner_title: Accelerating the Future
 banner_subtitle: 
-background_image: images/painting-mountain-lake-with-mountain-background_188544-9126.avif
+background_image: images/blue.jpeg
 
 # all of the following variables are optional -----------------
 page_url: /hello # only include this variable if you aren't building the page to your primary domain 

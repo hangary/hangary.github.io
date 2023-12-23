@@ -5,7 +5,7 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: hello for github pages
-banner_subtitle: "Work Hard, Have Fun, Make History" - Jeff Bezos
+banner_subtitle: 
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------

@@ -49,5 +49,8 @@ cta_button_label: Contact # the label on the button
 
 ### The blog sections is where I share my stories and opinions. The project sections contains some of my recent engineering projects along with a few updates (about 3 per month) on my progress. My contacts/other section contains links to other platforms (Linkedin, Instagram, Youtube, etc.)
 
+[//]: # (write a bit about yourself here)
+
+### **About Me**
 
   

@@ -4,8 +4,8 @@ layout: hello-default
 # using Markdown language, you can customize the following variables!
 
 # these variables are required -------------------------------
-banner_title: Accelerating the Future
-banner_subtitle: 
+banner_title: Gary Han
+banner_subtitle: Personal Website
 background_image: images/blue.jpg
 
 # all of the following variables are optional -----------------
